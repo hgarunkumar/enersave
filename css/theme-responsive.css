@@ -1,0 +1,109 @@
+@media (min-width: 768px) and (max-width: 979px) {
+
+	body {font-size: 13px;}
+	img {max-width:100% !important;}	
+
+}
+
+@media (max-width: 767px) {
+	/* Base */
+	body {font-size: 13px;}
+	img, .effect img {max-width:100% !important;}
+	
+	.logo {margin: 10px 0px !important;max-width: 50% !important;}
+	.els-logo {margin: 3px 0px 15px !important;float: left !important;}
+	.heading1 {color: #E67816;font-size: 26px;font-weight: bold;font-family: "Noticia Text",serif;}
+	.heading3 {color: #E67816;font-size: 16px;font-weight: bold;text-align: left;padding: 10px 0px 5px 0px;margin: 0px;font-family: "Noticia Text",serif;}
+	.bannerproducts-details span{background-color: #EEE; padding: 0px 5px; font-size: 10px; font-weight: normal; margin: 0px 2px 0px 0px !important; color: #1F1A17;float: left;}
+	.project-caption {color: #333;padding: 0px 20px;margin: 0px;text-align: left;font-weight:normal; font-size:12px;}
+	
+	#cssmenu{ display:none !important;}
+	.column{ display:block;}
+	.navbar-inverse, .navbar-header{ height:90px;}
+	/*.navbar-logo img{ width:92px; height:102px;}*/
+	
+	.carousel-indicators {position: absolute;top: 5%;z-index: 15;width: 16%;left: 85% !important;padding-left: 0px;list-style: outside none none;}
+	.carousel-caption{position: absolute; top:50%;left: 3%;right: 5%;bottom: 0px;z-index: 10;padding-top: 0px;padding-bottom: 0px;color: #FFF;text-align: center;}
+	.carousel-indicators li {display: inline-block;width: 10px;height: 10px;margin: 0px;text-indent: -999px;border: 1px solid #FFF;cursor: pointer;background-color: rgba(255, 255, 255, 0.8);}
+	.carousel-indicators .active {margin: 0px;width: 10px;height: 10px;background-color: rgba(230, 120, 22, 0.7);border: 1px solid #E67816;}
+	
+	#menu-v li ul{position: absolute;width: 100%; /*Sub Menu Items width */visibility:hidden;background-color:#000000 !important;margin:0px 0 0 -70px;border-bottom:none !important
+}
+	.product-topbox {height: 150px;background-color: #EEE;font-size: 20px;padding: 110px 19px 0px;font-weight: bold;margin-bottom: 30px;color: #E67817;}
+	.productlist-container {width: 100%;padding-right: 0px !important;height: 500px;}
+	.margin-t-30{margin-top:0px;}
+	
+	.productlist-container, .menu-v{ display:none !important;}
+	.pop-up{width:90% !important;}
+	.table-content {width: 95% !important;margin: 0px 10px 0px 0px !important;}
+	.thumb-image img{ max-width:80% !important;}
+	
+	.nav{ display:block !important;}
+	.email-heading{display:block !important;color: #E67816;font-size: 26px;font-weight: bold;}
+	.email-mobnone{ display:none !important;}
+	
+	.btnSubmit {margin: 0px 0px 10px;width: 25%;height: 30px;line-height: 8px;background-color: #1D1815;color: #FFF;border: medium none;font-weight: bold;text-align: center;		text-transform: uppercase;font-size: 13px;border-radius: 0px !important;}
+	
+	.social-hold {position: relative;padding: 0px;list-style-type: none;float: left !important;z-index: 10 !important;margin: 0px 0 3% 3% !important;}
+	.copyright{	margin-top:10px; height:22px;}
+	.copyright p {color: #16110E;font-size: 10px;padding: 0px;height: 20px;margin: 0px;text-align:left; padding:0 0 0 3%;} 
+	
+}
+
+@media (max-width: 480px){
+/* Base */
+	body {font-size: 13px;}
+	img, .effect img {max-width:100% !important;}
+	
+	.logo {margin: 10px 0px !important;max-width: 50% !important;}
+	.els-logo {margin: 3px 0px 15px !important;float: left !important;}
+	.heading1 {color: #E67816;font-size: 26px;font-weight: bold;font-family: "Noticia Text",serif;}
+	.heading3 {color: #E67816;font-size: 16px;font-weight: bold;text-align: left;padding: 10px 0px 5px 0px;margin: 0px;font-family: "Noticia Text",serif;}
+	.bannerproducts-details span{background-color: #EEE; padding: 0px 5px; font-size: 10px; font-weight: normal; margin: 0px 2px 0px 0px !important; color: #1F1A17;float: left;}
+	.project-caption {color: #333;padding: 0px 20px;margin: 0px;text-align: left;font-weight:normal; font-size:12px;}
+	
+	#cssmenu{ display:none !important;}
+	.column{ display:block;}
+	.navbar-inverse, .navbar-header{ height:90px;}
+	/*.navbar-logo img{ width:92px; height:102px;}*/
+	
+	.carousel-indicators {position: absolute;top: 5%;z-index: 15;width: 16%;left: 85% !important;padding-left: 0px;list-style: outside none none;}
+	.carousel-caption{position: absolute; top:50%;left: 3%;right: 5%;bottom: 0px;z-index: 10;padding-top: 0px;padding-bottom: 0px;color: #FFF;text-align: center;}
+	.carousel-indicators li {display: inline-block;width: 10px;height: 10px;margin: 0px;text-indent: -999px;border: 1px solid #FFF;cursor: pointer;background-color: rgba(255, 255, 255, 0.8);}
+	.carousel-indicators .active {margin: 0px;width: 10px;height: 10px;background-color: rgba(230, 120, 22, 0.7);border: 1px solid #E67816;}
+	
+	#menu-v li ul{position: absolute;width: 100%; /*Sub Menu Items width */visibility:hidden;background-color:#000000 !important;margin:0px 0 0 -70px;border-bottom:none !important
+}
+	.product-topbox {height: 150px;background-color: #EEE;font-size: 20px;padding: 110px 19px 0px;font-weight: bold;margin-bottom: 30px;color: #E67817;}
+	.productlist-container {width: 100%;padding-right: 0px !important;height: 500px;}
+	.margin-t-30{margin-top:0px;}
+	
+	.productlist-container, .menu-v{ display:none !important;}
+	.pop-up{width:90% !important;}
+	.table-content {width: 95% !important;margin: 0px 10px 0px 0px !important;}
+	.thumb-image img{ max-width:80% !important;}
+	
+	.nav{ display:block !important;}
+	.email-heading{display:block !important;color: #E67816;font-size: 26px;font-weight: bold;}
+	.email-mobnone{ display:none !important;}
+	
+	.btnSubmit {margin: 0px 0px 10px;width: 25%;height: 30px;line-height: 8px;background-color: #1D1815;color: #FFF;border: medium none;font-weight: bold;text-align: center;		text-transform: uppercase;font-size: 13px;border-radius: 0px !important;}
+	
+	.social-hold {position: relative;padding: 0px;list-style-type: none; float: left !important; z-index: 10 !important; margin: 0px 0px 3% 3% !important;}
+	.copyright{	margin-top:10px !important; height:22px !important;}
+	.copyright p {color: #16110E;font-size: 10px !important; height: 20px !important; margin: 0px !important; text-align: left !important; padding: 0px 0px 0px 3% !important;} 
+	
+}
+
+@media (max-width: 640px) {
+
+}
+
+/* Home Concept */
+@media (max-width: 1180px) {
+
+}
+
+@media (max-width: 767px) {
+	
+}
